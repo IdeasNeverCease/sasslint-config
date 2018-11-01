@@ -35,5 +35,5 @@ options: {
 ##### Command line config
 
 ```bash
-sass-lint --config ./node_modules/@inc/sasslint-config/config.json
+sass-lint --config ./node_modules/@inc/sasslint-config/config.json --verbose --no-exit
 ```
