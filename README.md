@@ -8,7 +8,7 @@
 
 ### Installation
 ```bash
-$ npm i @inc/sasslint-config -D
+$ npm i sass-lint @inc/sasslint-config -D
 ```
 
 
