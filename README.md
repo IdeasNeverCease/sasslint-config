@@ -37,3 +37,24 @@ options: {
 ```bash
 sass-lint --config ./node_modules/@inc/sasslint-config/config.json --verbose --no-exit
 ```
+
+##### package.json config
+
+```json
+{
+  "name": "your_project",
+  "scripts": {
+    ...,
+    "test:sass": "sass-lint --config ./node_modules/@inc/sasslint-config/config.json --verbose --no-exit",
+    ...
+  }
+}
+```
+
+If your script was called `test:sass` you could then run `npm run test:sass` and your Sass files would be linted.
+
+
+
+### License
+
+[BSD-3-Clause](LICENSE) Copyright (c) 2018, Ideas Never Cease
