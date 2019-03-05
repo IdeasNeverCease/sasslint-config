@@ -57,4 +57,4 @@ If your script was called `test:sass` you could then run `npm run test:sass` and
 
 ### License
 
-[BSD-3-Clause](LICENSE) Copyright (c) 2018, Ideas Never Cease
+[BSD-3-Clause](LICENSE) Copyright © 2018-19, Ideas Never Cease
