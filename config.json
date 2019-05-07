@@ -294,6 +294,7 @@
           "grid-template-columns",
           "grid-template-rows",
           "hanging-punctuation",
+          "hyphenate-limit-chars",
           "hyphens",
           "image-rendering",
           "inline-size",
