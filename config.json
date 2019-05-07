@@ -1,5 +1,10 @@
 {
   files: {
+    ignore: [
+      "node_modules/**/*.s+(a|c)ss",
+      "node_modules/**/**/*.s+(a|c)ss",
+      "node_modules/**/**/**/*.s+(a|c)ss"
+    ],
     include: "**/*.s+(a|c)ss"
   },
   options: {
