@@ -1,6 +1,6 @@
 # sasslint-config
 
-[![INC](https://img.shields.io/badge/%F0%9F%92%A1-IdeasNeverCease/sasslint--config-51dcfb.svg?style=flat-square)](https://git.inc.sh/IdeasNeverCease/sasslint-config)
+[![INC](https://img.shields.io/badge/%E2%9C%A8-IdeasNeverCease/sasslint--config-51dcfb.svg?style=flat-square)](https://code.webb.page/IdeasNeverCease/sasslint-config)
 
 > Recommended Sass Lint settings for !NC projects
 

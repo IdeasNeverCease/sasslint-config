@@ -9,7 +9,7 @@
   "description": "Recommended Sass Lint settings for !NC projects",
   "devDependencies": {
     "npm-run-all": "^4.1.5",
-    "updates": "^8.1.0"
+    "updates": "^8.5.1"
   },
   "files": [
     "config.json"
@@ -21,17 +21,17 @@
     "sasslint",
     "sasslint-config"
   ],
-  "homepage": "https://git.inc.sh/IdeasNeverCease/sasslint-config",
+  "homepage": "https://code.webb.page/IdeasNeverCease/sasslint-config",
   "license": "MIT",
   "main": "config.json",
   "name": "@inc/sasslint-config",
   "repository": {
     "type": "git",
-    "url": "https://git.inc.sh/IdeasNeverCease/sasslint-config.git"
+    "url": "https://code.webb.page/IdeasNeverCease/sasslint-config.git"
   },
   "scripts": {
     "test": "run-s test:*",
     "test:dependencies": "updates --update ./"
   },
-  "version": "2019.06.22"
+  "version": "2019.07.23"
 }
