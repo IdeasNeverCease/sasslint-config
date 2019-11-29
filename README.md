@@ -4,6 +4,10 @@
 
 > Recommended Sass Lint settings for !NC projects
 
+# DEPRECATED
+
+[Sass Lint](https://github.com/sasstools/sass-lint) has not been maintained for two years at this time of writing. Therefore, this module has been deprecated in favor of [this !NC stylelint config](https://code.webb.page/IdeasNeverCease/stylelint-config).
+
 
 
 ### Installation

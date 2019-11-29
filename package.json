@@ -4,7 +4,7 @@
     "name": "Paul Anthony Webb"
   },
   "bugs": {
-    "url": "https://hub.socii.network/inc"
+    "url": "https://inc.sh/contact"
   },
   "description": "Recommended Sass Lint settings for !NC projects",
   "devDependencies": {
@@ -25,13 +25,10 @@
   "license": "MIT",
   "main": "config.json",
   "name": "@inc/sasslint-config",
-  "repository": {
-    "type": "git",
-    "url": "https://code.webb.page/IdeasNeverCease/sasslint-config.git"
-  },
+  "repository": "https://code.webb.page/IdeasNeverCease/sasslint-config",
   "scripts": {
     "test": "run-s test:*",
     "test:dependencies": "updates --update ./"
   },
-  "version": "2019.07.23"
+  "version": "2019.11.29"
 }
